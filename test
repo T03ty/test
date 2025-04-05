@@ -1,5 +1,6 @@
 version=1.0
 lock=False
-Announcement_Temp=None
+Announcement_Temp=Test
 Announcement_Force=None
 Link=None
+Password=None
