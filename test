@@ -1,5 +1,5 @@
 version=1.9
-lock=False
+lock=True
 Announcement_Temp=None
 Announcement_Force=None
 Link=None
