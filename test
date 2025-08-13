@@ -1,4 +1,4 @@
-version=2.1
+version=2.2
 lock=False
 Announcement_Temp=None
 Announcement_Force=None
@@ -6,3 +6,8 @@ Link=None
 Password=None
 Vpn=None
 Apkurl=https://t.me/Minecraft_DLC_FREE/7908
+sha=
+changelog=
+2025-08-13=2.2
+Added notification 
+Improve Extraction 
