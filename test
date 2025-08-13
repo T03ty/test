@@ -6,8 +6,8 @@ Link=None
 Password=None
 Vpn=None
 Apkurl=https://t.me/Minecraft_DLC_FREE/7908
-sha=
-changelog=cf798f459e072cfd793b3ec914b9893d210a8c0af01c46c65c3cff17330ec56b
+sha=cf798f459e072cfd793b3ec914b9893d210a8c0af01c46c65c3cff17330ec56b
+changelog=
 2025-08-13=2.2
 Added notification 
 Improve Extraction 
