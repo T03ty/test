@@ -1,7 +1,8 @@
 version=2.1
+version_test=2.1
 lock=False
 Announcement_Temp=None
-Announcement_Force=None
+Announcement_Force=MDF
 Link=None
 Password=None
 Vpn=None
