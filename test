@@ -7,6 +7,7 @@ Link=None
 Password=None
 Vpn=None
 Apkurl=https://t.me/Toolcoin_mod/7
+whitelist=test,
 sha=
 changelog=
 2025-08-22=2.3
