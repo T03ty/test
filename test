@@ -2,11 +2,12 @@ version=2.3
 version_test=2.3
 lock=False
 Announcement_Temp=None
-Announcement_Force=None
+Announcement_Force=This app will be closing soon use this app instead
+https://t.me/Toolcoin_mod/18
 Link=None
 Password=None
 Vpn=None
-Apkurl=https://t.me/Toolcoin_mod/11
+Apkurl=https://t.me/Toolcoin_mod/18
 whitelist1=760d8889f63493e485f1a977b8d2c707059d1ffa277dca10e787180481ddc217,
 sha=418c5784faf128989a225e84b4cf861a32688a4ef460ff0948b8d21c1396cf12
 changelog=
